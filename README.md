@@ -1,7 +1,7 @@
 # Rafi Ramadhan
 *Data Analytics | Machine Learning, Deep Learning & NLP Enthusiast.*
 
-[💼 LinkedIn](https://www.linkedin.com/in/rafi-ramadhan-08b775285/) | [📊 Kaggle](https://www.kaggle.com/raffiramadhan) | [✉️ Email](mailto:rr2589230@gmail.com)
+[💼 LinkedIn](https://www.linkedin.com/in/rafi-ramadhan-08b775285/) | [📊 Kaggle](https://www.kaggle.com/raffiramadhan) | [✉️ Email](mailto:rafeeramadhann@gmail.com)
 
 ---
 
