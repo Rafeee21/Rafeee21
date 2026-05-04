@@ -74,6 +74,8 @@ Built an image classification model using the **German Traffic Sign Recognition 
 
 - **Tech Stack:** Python, TensorFlow/Keras, Google Colab
 
+[![View on Kaggle](https://img.shields.io/badge/View%20on-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/raffiramadhan/cnn-for-classification-traffic-signs-use-mobilenet)
+
 ---
 
 ### 🏔️ Landscape Image Classification — ResNet vs DenseNet
@@ -83,6 +85,8 @@ Conducted a comparative Deep Learning experiment to classify natural landscape i
 
 - **Tech Stack:** Python, Google Colab, Kaggle
 
+[![View on Kaggle](https://img.shields.io/badge/View%20on-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/raffiramadhan/scene-image-classification-use-resnet-and-densenet)
+
 ---
 
 ### 🍛 Padang Food Image Classification using CNN (AlexNet & LeNet)
@@ -91,6 +95,8 @@ Conducted a comparative Deep Learning experiment to classify natural landscape i
 Built an image recognition system for traditional Padang cuisine using a public Kaggle dataset. Applied and compared classic CNN architectures (**AlexNet** and **LeNet**) to understand feature extraction and classification behavior.
 
 - **Tech Stack:** Python, Jupyter Notebook
+
+[![View on Kaggle](https://img.shields.io/badge/View%20on-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/raffiramadhan/classification-padang-cuisine-use-alex-and-lenet)
 
 ---
 
@@ -103,6 +109,8 @@ Managed the full research pipeline: from raw field data preprocessing to model e
 
 - **Tech Stack:** Python, Jupyter Notebook, Scikit-learn
 
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)](https://colab.research.google.com/drive/1I4ZkhO4wFXHR3JAbwQRQU4mK0K3-Xbnp?usp=sharing)
+
 ---
 
 ### 📱 Starlink Sentiment Analysis from Twitter
@@ -112,6 +120,8 @@ Scraped public Twitter data to collect opinions and reviews about the Starlink i
 
 - **Tech Stack:** Python, NLP Libraries, Web Scraping
 
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)](https://colab.research.google.com/drive/1tF5IYLiK2ydGToPKC_7yhueA8cK9raiD?usp=sharing)
+
 ---
 
 ### 📦 Inventory Demand Forecasting using SARIMA
@@ -120,6 +130,8 @@ Scraped public Twitter data to collect opinions and reviews about the Starlink i
 Built a time series forecasting model using **SARIMA** (Seasonal Autoregressive Integrated Moving Average) to predict periodic stock demand in a warehouse. Analyzed historical data patterns including trends and seasonality to support inventory management decisions.
 
 - **Tech Stack:** Python, Statsmodels, Jupyter Notebook
+
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)](https://colab.research.google.com/drive/1gRVk2nGpWuGrJ-Zy0YRf3Q3HueQp8jJ3?usp=sharing)
 
 ---
 
@@ -158,9 +170,9 @@ S1 Sains Data (Data Science) · *2022 – Present (Thesis Stage)*
 
 <div align="center">
 
-![Rafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raffiramadhan&show_icons=true&theme=default&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=raffiramadhan&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Rafi's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raffiramadhan&layout=compact&theme=default&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffiramadhan&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 
 </div>
 
