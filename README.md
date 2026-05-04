@@ -5,9 +5,7 @@
 
 ---
 
-> My mission is to translate data into intelligent, actionable solutions. As an enthusiast in Machine Learning, Deep Learning, and Natural Language Processing, I focus on building pragmatic systems that solve real-world problems.
-
-As a Data Science undergraduate at Universitas Teknologi Yogyakarta with a **3.86 GPA**, I balance a strong academic foundation with active leadership as the **Head of Research and Technology (Ketua Keristek)**. I am passionate about the entire project lifecycle: from conducting data analytics and executing code in Jupyter environments, to building Convolutional Neural Network architectures.
+I am a Data Science student at the University of Technology Yogyakarta with a keen interest in Data Analytics, Machine Learning, and Deep Learning. I enjoy the learning process, from understanding fundamental concepts to applying them in practice, and I am constantly seeking opportunities to expand my knowledge. Beyond my academic studies, I have also developed my organizational skills by serving as the Head of the Research and Technology (Ristek) Division. This experience has taught me the value of collaboration, good communication, and team based problem solving. Currently, I am seeking opportunities to further my learning and apply my skills in a real world professional environment..
 
 ---
 
