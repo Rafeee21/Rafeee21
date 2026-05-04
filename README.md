@@ -46,8 +46,8 @@ I am currently looking for opportunities to grow professionally and contribute m
 
 ## 💼 Experience
 
-### 🏫 Asisten Tim Akreditasi Program Studi
-**Universitas Teknologi Yogyakarta** · *Oktober 2025 – April 2026*
+### 🏫 Study Program Accreditation Team Assistant
+**Universitas Teknologi Yogyakarta (UTY)** · *October 2025 – April 2026*
 
 - Processed and visualized research data into graphs and reports using Microsoft Excel to support study program accreditation.
 - Assisted in drafting and archiving administrative documents, from proposal drafts to final reports.
@@ -55,13 +55,13 @@ I am currently looking for opportunities to grow professionally and contribute m
 
 ---
 
-### 🌦️ Mahasiswa Kerja Praktik (Internship)
-**Stasiun Klimatologi Yogyakarta, BMKG** · *Maret 2025 – Juni 2025*
+### 🌦️ Internship Student
+**Yogyakarta Climatology Station, BMKG** · *March 2025 – June 2025*
 
 - Collected and recorded primary climate data directly from the field for analysis and report preparation.
 - Coordinated with field officers regarding data validity and reporting progress.
 - Applied Machine Learning to real climate data, developing a research project:
-  *"Penerapan Naive Bayes untuk Klasifikasi Status Hujan Berbasis Data Iklim di Sleman"*
+  *"Naive Bayes Implementation for Rain Status Classification Based on Climate Data in Sleman"*
 
 ---
 
@@ -159,20 +159,18 @@ S1 Sains Data (Data Science) · *2022 – Present (Thesis Stage)*
 
 | Language | Proficiency |
 |---|---|
-| Bahasa Indonesia | Native |
-| Bahasa Jawa | Native |
+| Indonesian | Native |
+| Javanese | Native |
 | English | Intermediate (B1) |
-| Bahasa Melayu | Basic |
+| Malay | Basic |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raffiramadhan&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Rafi's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffiramadhan&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=raffiramadhan&theme=default&hide_border=true" alt="GitHub Streak Stats" />
 
 </div>
 
