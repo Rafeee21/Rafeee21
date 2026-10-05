@@ -1,186 +1,56 @@
-<div align="center">
-
 # Rafi Ramadhan
-### Data Science Student · Machine Learning & Deep Learning Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-ramadhan-08b775285/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/raffiramadhan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafeeramadhann@gmail.com)
+**Data Science Graduate · Computer Vision & Time Series Forecasting**
+Yogyakarta, Indonesia
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-ramadhan-08b775285/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/raffiramadhan)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rafeeramadhann@gmail.com)
 
----
+## About
 
-## 👋 About Me
+Data Science graduate from Universitas Teknologi Yogyakarta (GPA 3.80/4.00). I build machine learning models for image classification and time series forecasting, and I work through the full workflow: data collection, cleaning, modeling, evaluation, and reporting.
 
-I am a **Data Science student** at Universitas Teknologi Yogyakarta (graduating thesis stage) with a strong interest in **Data Analytics**, **Machine Learning**, and **Deep Learning**. I enjoy working with data — from cleaning and exploration to building and evaluating predictive models.
+- **Thesis:** age rating classification of game screenshots with ResNet-50 (98% test accuracy), including a 3,000-image open dataset published on Kaggle.
+- **Research:** hybrid forecasting and linear programming model for food logistics distribution, in collaboration with Perum BULOG.
+- **Intellectual property:** registered copyright (Ministry of Law and Human Rights, Republic of Indonesia) for a CNN-based hazardous waste (B3) classification program.
 
-I have hands-on experience applying ML techniques to real-world data through internship work at **BMKG Stasiun Klimatologi Yogyakarta**, and I have contributed to **academic accreditation** processes through data processing and documentation support.
+I am looking for entry-level data science and machine learning roles.
 
-I am currently looking for opportunities to grow professionally and contribute meaningfully in a data-driven environment.
+## Tech Stack
 
----
-
-## 🛠️ Technical Skills
-
-### Languages & Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Machine Learning & AI
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
-
-**Areas:** Machine Learning · Deep Learning · Convolutional Neural Networks (CNN) · Natural Language Processing (NLP) · Computer Vision · Time Series Forecasting
-
-### Tools & Platforms
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Google Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 
----
+**Focus areas:** Machine Learning · Deep Learning (CNN) · Computer Vision · NLP · Time Series Forecasting
 
-## 💼 Experience
+## Featured Projects
 
-### 🏫 Study Program Accreditation Team Assistant
-**Universitas Teknologi Yogyakarta (UTY)** · *October 2025 – April 2026*
+| Project | Description | Methods | Result |
+|---|---|---|---|
+| **Game Age Rating Classification** (Thesis) | Classifies Steam gameplay screenshots into three age groups based on the Indonesian Game Rating System (IGRS). | ResNet-50, TensorFlow | 98% test accuracy · [Dataset](REPLACE_WITH_DATASET_URL) · [Code](REPLACE_WITH_REPO_URL) |
+| **Rain Status Classification, Sleman** | Predicts daily rain status from primary climate data collected and validated with BMKG. | Gaussian Naive Bayes, Scikit-learn | 84% test accuracy · [Notebook](https://colab.research.google.com/drive/1I4ZkhO4wFXHR3JAbwQRQU4mK0K3-Xbnp?usp=sharing) |
+| **Inventory Demand Forecasting** | Forecasts periodic stock demand from historical trend and seasonality. | SARIMA, Statsmodels | 82% prediction accuracy · [Notebook](https://colab.research.google.com/drive/1gRVk2nGpWuGrJ-Zy0YRf3Q3HueQp8jJ3?usp=sharing) |
+| **Starlink Sentiment Analysis** | Scrapes public opinions from X (Twitter) and classifies sentiment. | NLP, text preprocessing | 85% test accuracy · [Notebook](https://colab.research.google.com/drive/1tF5IYLiK2ydGToPKC_7yhueA8cK9raiD?usp=sharing) |
+| **CNN Architecture Comparison** | Compares CNN architectures on traffic signs (GTSRB), landscapes, and Padang cuisine images. | MobileNet, ResNet, DenseNet, AlexNet, LeNet | MobileNetV2 best at 97% · [Traffic signs](https://www.kaggle.com/code/raffiramadhan/cnn-for-classification-traffic-signs-use-mobilenet) · [Landscapes](https://www.kaggle.com/code/raffiramadhan/scene-image-classification-use-resnet-and-densenet) · [Padang cuisine](https://www.kaggle.com/code/raffiramadhan/classification-padang-cuisine-use-alex-and-lenet) |
 
-- Processed and visualized research data into graphs and reports using Microsoft Excel to support study program accreditation.
-- Assisted in drafting and archiving administrative documents, from proposal drafts to final reports.
-- Conducted recapitulation and validation of accreditation documents, verifying the accuracy of journal publication data.
+## Experience
 
----
+- **Research Assistant**, Universitas Teknologi Yogyakarta · Jun 2026 – Aug 2026
+  - Designed a data-driven distribution optimization model that combines time series forecasting and linear programming to improve supply chain efficiency, in collaboration with Perum BULOG.
+- **Accreditation Team Assistant**, Universitas Teknologi Yogyakarta · Oct 2025 – Jun 2026
+  - Processed and visualized research data in Excel and validated journal publication data for study program accreditation reports.
+- **Intern**, BMKG Yogyakarta Climatology Station · Mar 2025 – Jul 2025
+  - Handled primary climate data from field collection to validation and built a rain status classification model for Sleman.
 
-### 🌦️ Internship Student
-**Yogyakarta Climatology Station, BMKG** · *March 2025 – June 2025*
+## Contact
 
-- Collected and recorded primary climate data directly from the field for analysis and report preparation.
-- Coordinated with field officers regarding data validity and reporting progress.
-- Applied Machine Learning to real climate data, developing a research project:
-  *"Naive Bayes Implementation for Rain Status Classification Based on Climate Data in Sleman"*
-
----
-
-## 🚀 Projects
-
-### 🚦 Traffic Sign Classification using CNN (MobileNet)
-*Deep Learning · Computer Vision · CNN*
-
-Built an image classification model using the **German Traffic Sign Recognition Benchmark (GTSRB)** dataset. Implemented MobileNet architecture to efficiently recognize and classify various traffic sign types.
-
-- **Tech Stack:** Python, TensorFlow/Keras, Google Colab
-
-[![View on Kaggle](https://img.shields.io/badge/View%20on-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/raffiramadhan/cnn-for-classification-traffic-signs-use-mobilenet)
-
----
-
-### 🏔️ Landscape Image Classification — ResNet vs DenseNet
-*Deep Learning · CNN Architecture Comparison*
-
-Conducted a comparative Deep Learning experiment to classify natural landscape images using a Kaggle dataset. Evaluated and compared the performance of **ResNet** and **DenseNet** architectures in terms of accuracy and efficiency.
-
-- **Tech Stack:** Python, Google Colab, Kaggle
-
-[![View on Kaggle](https://img.shields.io/badge/View%20on-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/raffiramadhan/scene-image-classification-use-resnet-and-densenet)
-
----
-
-### 🍛 Padang Food Image Classification using CNN (AlexNet & LeNet)
-*Computer Vision · CNN · Image Classification*
-
-Built an image recognition system for traditional Padang cuisine using a public Kaggle dataset. Applied and compared classic CNN architectures (**AlexNet** and **LeNet**) to understand feature extraction and classification behavior.
-
-- **Tech Stack:** Python, Jupyter Notebook
-
-[![View on Kaggle](https://img.shields.io/badge/View%20on-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/raffiramadhan/classification-padang-cuisine-use-alex-and-lenet)
-
----
-
-### 🌧️ Rain Status Classification using Naive Bayes (Sleman Climate Data)
-*Machine Learning · Classification · Real-world Data*
-
-Developed a Machine Learning model using **Naive Bayes** to predict and classify rain status based on climate data. Primary data was collected and validated directly from BMKG Stasiun Klimatologi Sleman during internship.
-
-Managed the full research pipeline: from raw field data preprocessing to model evaluation.
-
-- **Tech Stack:** Python, Jupyter Notebook, Scikit-learn
-
-[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)](https://colab.research.google.com/drive/1I4ZkhO4wFXHR3JAbwQRQU4mK0K3-Xbnp?usp=sharing)
-
----
-
-### 📱 Starlink Sentiment Analysis from Twitter
-*NLP · Web Scraping · Sentiment Analysis*
-
-Scraped public Twitter data to collect opinions and reviews about the Starlink internet service. Applied **NLP** techniques for text preprocessing and sentiment classification (positive, negative, neutral) to understand public perception.
-
-- **Tech Stack:** Python, NLP Libraries, Web Scraping
-
-[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)](https://colab.research.google.com/drive/1tF5IYLiK2ydGToPKC_7yhueA8cK9raiD?usp=sharing)
-
----
-
-### 📦 Inventory Demand Forecasting using SARIMA
-*Time Series · Forecasting · Statistical Modeling*
-
-Built a time series forecasting model using **SARIMA** (Seasonal Autoregressive Integrated Moving Average) to predict periodic stock demand in a warehouse. Analyzed historical data patterns including trends and seasonality to support inventory management decisions.
-
-- **Tech Stack:** Python, Statsmodels, Jupyter Notebook
-
-[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)](https://colab.research.google.com/drive/1gRVk2nGpWuGrJ-Zy0YRf3Q3HueQp8jJ3?usp=sharing)
-
----
-
-## 📜 Certifications
-
-| Certification | Issuer |
-|---|---|
-| Python for Data Science, AI & Development | IBM |
-| Data Visualization and Dashboards with Excel and Cognos | IBM |
-| Excel Basics for Data Analysis | IBM |
-| Excel Fundamentals for Data Analysis | Macquarie University |
-| Python Fundamental for Data Science | DQLab |
-| Data Analytics Mini Course | RevoU |
-
----
-
-## 🎓 Education
-
-**Universitas Teknologi Yogyakarta**
-S1 Sains Data (Data Science) · *2022 – Present (Thesis Stage)*
-
----
-
-## 🌐 Languages
-
-| Language | Proficiency |
-|---|---|
-| Indonesian | Native |
-| Javanese | Native |
-| English | Intermediate (B1) |
-| Malay | Basic |
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=raffiramadhan&theme=default&hide_border=true" alt="GitHub Streak Stats" />
-
-</div>
-
----
-
-<div align="center">
-
-*"Data is not just numbers — it's a story waiting to be told."*
-
-📬 Open to collaborations, internships, and entry-level data roles.
-**[rafeeramadhann@gmail.com](mailto:rafeeramadhann@gmail.com)**
-
-</div>
+Open to collaborations and entry-level opportunities. Reach me at [rafeeramadhann@gmail.com](mailto:rafeeramadhann@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/rafi-ramadhan-08b775285/).
